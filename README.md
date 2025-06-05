@@ -1,12 +1,12 @@
-# LeetCode 1000 Solutions in Go
+# LeetCode 500 Solutions in Go
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-This repository contains my solutions to 1000 LeetCode problems implemented in Go. The purpose of this project is to demonstrate my programming skills, problem-solving abilities, and proficiency with the Go language.
+This repository contains my solutions to 500 LeetCode problems implemented in Go. The purpose of this project is to demonstrate my programming skills, problem-solving abilities, and proficiency with the Go language.
 
 ## Table of Contents
 
-- [Introduction](#leetcode-1000-solutions-in-go)
+- [Introduction](#leetcode-500-solutions-in-go)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
